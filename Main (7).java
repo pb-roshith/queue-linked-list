@@ -65,6 +65,8 @@ public class Main
 		q.dequeue();
 		q.dequeue();
 		q.display();
+		System.out.println();
+		q.elementAtFront();
 	}
 }
 
